@@ -1,0 +1,11 @@
+{
+  "name": "helloworld_node",
+  "version": "1.0.0",
+  "description": "Esse é meu primeiro contato com o Node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pinelli",
+  "license": "ISC"
+}
